@@ -1,12 +1,8 @@
 # aptos-price-bot
-✅ Cara Menjalankan
+install library
 
-    Ganti 'YOUR_TELEGRAM_BOT_TOKEN' dengan token bot kamu dari @BotFather.
+    pip install python-telegram-bot requests
 
-    Simpan script sebagai aptos_bot.py.
+run
 
-    Jalankan:
-
-python aptos_bot.py
-
-    Kirim /start dan /aptos ke bot kamu di Telegram.
+    python aptos_bot.py
